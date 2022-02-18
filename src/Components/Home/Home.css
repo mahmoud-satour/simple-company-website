@@ -1,0 +1,27 @@
+section {
+    background: url("../../images/mac.jpg") ;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+h1 {
+    color: white;
+    margin-top: 200px!important;
+    letter-spacing: 2px;
+}
+
+p {
+    color: white;
+    padding-top: 50px;
+}
+
+Button {
+    border-radius: 0%!important;
+    color: black!important;
+    background-color:gainsboro!important;
+}
+
+Button:hover {
+    background-color: white!important;
+}
